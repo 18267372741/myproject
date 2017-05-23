@@ -1,0 +1,23 @@
+{
+  "name": "oo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18267372741/myproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18267372741/myproject/issues"
+  },
+  "homepage": "https://github.com/18267372741/myproject#readme",
+  "devDependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.0"
+  }
+}
